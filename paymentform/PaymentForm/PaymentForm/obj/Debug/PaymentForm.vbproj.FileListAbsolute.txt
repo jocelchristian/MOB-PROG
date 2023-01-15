@@ -1,0 +1,12 @@
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\bin\Debug\PaymentForm.exe.config
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\bin\Debug\PaymentForm.exe
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\bin\Debug\PaymentForm.pdb
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\bin\Debug\PaymentForm.xml
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.vbprojResolveAssemblyReference.cache
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.Form1.resources
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.Resources.resources
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.vbproj.GenerateResource.Cache
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.exe
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.xml
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.pdb
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.Form2.resources
